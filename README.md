@@ -2,16 +2,16 @@
 
 Connexion TCP client/serveur via socket
 
-#serveur_minimal :
+serveur_minimal :
 - connexion 1 seul client
 
-#serveurfils, serveurpetitfils :
+serveurfils, serveurpetitfils :
 - multi clients
 - connexion(s) gérée(s) par le processus fils,  ou/et petit-fils
 
-#serveurthread :
+serveurthread :
 - multi clients
 - connexion(s) gérée(s) par les threads
 
-#compilation :
+compilation :
 

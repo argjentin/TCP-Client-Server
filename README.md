@@ -16,5 +16,7 @@ serveurthread :
 compilation :
 gcc -g -Wall -Wextra -Og -o fichier fichier.c
 
+usage :
 usage serveur :  ./serveurname port
+
 usage client :   ./client_minimal localhost port

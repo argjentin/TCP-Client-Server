@@ -1,8 +1,8 @@
 # TCP-Client-Server
 
-# Connexion TCP client/serveur via socket
+Connexion TCP client/serveur via socket
 
-# serveur_minimal :
+#serveur_minimal :
 - connexion 1 seul client
 
 #serveurfils, serveurpetitfils :
